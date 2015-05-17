@@ -1,0 +1,68 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0xf02)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Telerik\Desktop\Archive-a418\Archive-a418\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\Pcbuild\EVE_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Telerik\Desktop\Archive-a418\Archive-a418\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\Pcbuild\EVE_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Telerik\Desktop\Archive-a418\Archive-a418\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\Pcbuild\EVE_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Telerik\Desktop\Archive-a418\Archive-a418\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\Pcbuild\EVE_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Telerik\Desktop\Archive-a418\Archive-a418\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\Pcbuild\EVE_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Telerik\Desktop\Archive-a418\Archive-a418\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\Pcbuild\EVE_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.588 seconds
+desktop: 1280x1024 75Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Telerik\Desktop\Archive-a418\Archive-a418\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\MLG FLAPPY BURD FAPPING MACHINE - FOR JOEL\Pcbuild\EVE_Data\Managed\System.Core.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.279265 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 0.522830 ms (FindLiveObjects: 0.076584 ms CreateObjectMapping: 0.029949 ms MarkObjects: 0.375650 ms  DeleteObjects: 0.012407 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.840721 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 0.299493 ms (FindLiveObjects: 0.043640 ms CreateObjectMapping: 0.023959 ms MarkObjects: 0.220341 ms  DeleteObjects: 0.009840 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.878799 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 0.323453 ms (FindLiveObjects: 0.047063 ms CreateObjectMapping: 0.024387 ms MarkObjects: 0.240022 ms  DeleteObjects: 0.010696 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.152194 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 0.333721 ms (FindLiveObjects: 0.051769 ms CreateObjectMapping: 0.023959 ms MarkObjects: 0.242161 ms  DeleteObjects: 0.013263 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.609683 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 0.341422 ms (FindLiveObjects: 0.051341 ms CreateObjectMapping: 0.024387 ms MarkObjects: 0.250291 ms  DeleteObjects: 0.012835 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.708516 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 0.383779 ms (FindLiveObjects: 0.068883 ms CreateObjectMapping: 0.024815 ms MarkObjects: 0.275534 ms  DeleteObjects: 0.012407 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.630647 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 0.316607 ms (FindLiveObjects: 0.043640 ms CreateObjectMapping: 0.024387 ms MarkObjects: 0.235316 ms  DeleteObjects: 0.011979 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.762425 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 0.340994 ms (FindLiveObjects: 0.049630 ms CreateObjectMapping: 0.023959 ms MarkObjects: 0.251574 ms  DeleteObjects: 0.013691 ms)
+
